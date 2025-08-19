@@ -5,6 +5,7 @@ A hands-on, multi-agent Food Truck assistant built with LangGraph and LangChain.
 What this project is
 
 Five focused agents that cover a simple food-truck workflow end to end:
+
 -MenuAgent — reads/updates the menu and today’s special
 -OrderAgent — builds a cart, adds/removes items, calculates totals
 -SupplyAgent — checks stock, adjusts inventory, flags low-stock items

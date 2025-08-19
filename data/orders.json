@@ -1,0 +1,14 @@
+{
+  "1": {
+    "order_id": "1",
+    "name": "sam",
+    "method": "pickup",
+    "items": {
+      "taco": 2,
+      "burrito": 1,
+      "soda": 1
+    },
+    "total": 18.5,
+    "status": "ready_for_pickup"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "special": null,
+  "items": {
+    "taco": 4.5,
+    "burrito": 7.5,
+    "quesadilla": 6.0,
+    "iced_tea": 2.0,
+    "soda": 2.0
+  }
+}
